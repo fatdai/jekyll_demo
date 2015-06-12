@@ -1,2 +1,2 @@
 # jekyll_demo
-测试讲 github 当作 blog
+测试将 github 当作 blog
